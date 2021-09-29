@@ -1,4 +1,4 @@
-# DEEP DEEP FOREST
+# Escape the Night
 # Now updated to Python 3
 
 # At the top of the file are declarations and variables we need.
