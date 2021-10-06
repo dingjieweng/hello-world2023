@@ -204,7 +204,7 @@ def introStory():
     print ("Try to stay alive..." + player["name"]+".")
     print ("      ")
     print ("The story became...")
-    print ("You woke up. You realized you're in a strange place.")
+    print ("You woke up from bed. You realized you're in a strange place.")
     print ("This is not your house. You couldn't recall how you got here.")
     print ("Do you wanna get up?")
 
