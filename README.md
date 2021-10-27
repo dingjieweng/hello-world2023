@@ -6,3 +6,6 @@ homework homework
 homework homework
 # week3
 homework
+# week7
+I used Contour Detection Example as template, and I adjusted it.
+There will be small stars on the contouring part after you make the mouse click!
